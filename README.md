@@ -1,4 +1,4 @@
-# WordOfTheDayTwitter
+# WordOfTheDayBackend
 
 ## Purpose
 
