@@ -10,6 +10,8 @@ The Twitter API v2 will be used in in an timer Azure Function to automatically r
 
 The link to this website is https://claytonkristiansen.github.io/WordOfTheDay/
 
+The repository for the front-end is https://github.com/claytonkristiansen/WordOfTheDay
+
 The frontend on GitHub Pages will communicate with the backend to access records and other information regarding the word of the day.
 
 ## Languages and Tools
