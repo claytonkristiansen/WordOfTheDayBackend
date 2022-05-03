@@ -8,6 +8,8 @@ This Azure based Web Application will scrape Twitter daily searching for the mos
 
 The Twitter API v2 will be used in in an timer Azure Function to automatically read in a fixed number of random tweets. These tweets will then be parsed and the individual words will be counted in a map. The same API will then be used to tweet out which word has been used the most in the past 24 hours. A website will be hosted on GitHub Pages for displaying the most common word found going back to the launch of this web application.
 
+The link to this website is https://claytonkristiansen.github.io/WordOfTheDay/
+
 The frontend on GitHub Pages will communicate with the backend to access records and other information regarding the word of the day.
 
 ## Languages and Tools
