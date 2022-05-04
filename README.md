@@ -17,3 +17,7 @@ The frontend on GitHub Pages will communicate with the backend to access records
 ## Languages and Tools
 
 Node.js will be the primary backend language, and the backend will be structured as an Express Application. 
+
+## Stretch Goals
+
+Farther down the line I would like to implement a machine learning algorithm to more effectively filter out overly common words. This way the word of the day will always be interesting and not something like "dog".
