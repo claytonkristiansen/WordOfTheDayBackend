@@ -1,7 +1,7 @@
 {
-    "appService.defaultWebAppToDeploy": "/subscriptions/57c3548b-ed4b-43ec-94d9-7f8aab5d56ff/resourceGroups/ClaytonWebApp-rg/providers/Microsoft.Web/sites/ClaytonWebApp",
+    "appService.defaultWebAppToDeploy": "/subscriptions/57c3548b-ed4b-43ec-94d9-7f8aab5d56ff/resourceGroups/WordOfTheDayBackend-rg/providers/Microsoft.Web/sites/WordOfTheDayBackend",
     "appService.deploySubpath": ".",
-    "azureFunctions.deploySubpath": ".",
+    "azureFunctions.deploySubpath": "functions",
     "azureFunctions.postDeployTask": "npm install (functions)",
     "azureFunctions.projectLanguage": "JavaScript",
     "azureFunctions.projectRuntime": "~4",
