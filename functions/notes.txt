@@ -1,0 +1,2 @@
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-timer?tabs=in-process&pivots=programming-language-javascript#timespan
+

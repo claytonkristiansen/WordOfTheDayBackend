@@ -19,14 +19,14 @@ router.post('/recordpost', (req, res, next) =>
     const date = require('date-and-time');
     var config = 
     {  
-        server: 'wordofthedaydbserver.database.windows.net',  //update me
-        authentication: 
+        server: 'wordofthedaydbserver.database.windows.net',
+        authentication:
         {
             type: 'default',
-            options: 
+            options:
             {
-                userName: 'wordofthedayadmin', //update me
-                password: 'Nine01090'  //update me
+                userName: 'wordofthedayadmin',
+                password: 'Nine01090'
             }
         },
         options: 
